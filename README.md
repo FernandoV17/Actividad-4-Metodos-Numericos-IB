@@ -10,7 +10,7 @@ La ecuación diferencial planteada es:
 \frac{dw}{dx} = -0.02 \cdot w
 \]
 
-Sujeta a la condición inicial:
+sujeta a la condición inicial:
 
 \[
 w(0) = 1000
@@ -51,6 +51,7 @@ python3 main.py
 
 ### Ejemplo de Salida
 
+```bash
 El programa imprimirá lo siguiente en consola:
 
 ##########################################################################
@@ -72,6 +73,7 @@ x = 0.30 f(x) = 996.004000
 x = 0.60 f(x) = 992.023984
 ...
 x = 30.00 f(x) = 548.811636
+```
 
 ## Explicación del Método de Euler
 
