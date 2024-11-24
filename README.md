@@ -51,9 +51,9 @@ python3 main.py
 
 ### Ejemplo de Salida
 
-```bash
 El programa imprimirá lo siguiente en consola:
 
+```bash
 ##########################################################################
 
 # PIA: Resolución de Ecuación Diferencial por método de Euler
